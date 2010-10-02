@@ -1,0 +1,6 @@
+Further Development
+
+	* Assign due dates to list items
+	* Create a 'Today' list that displays all items that are due today
+	* Allow lists to be assigned to other lists (i.e. A 'Projects' list could have a list of tasks associated with each project)
+	* Allow data to be synced with a database so that people can access their data from different devices
